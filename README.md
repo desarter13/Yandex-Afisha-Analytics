@@ -49,7 +49,7 @@
 
 ### Дашборд
 
-   [![Дашборд Яндекс Афиша](images/dashboard.png)](https://datalens.yandex/nozis2qzh2f06?_share_link=public&state=c50dcbe4123&tab=Z4)
+   [![Дашборд Яндекс Афиша](dashboard.png)](https://datalens.yandex/nozis2qzh2f06?_share_link=public&state=c50dcbe4123&tab=Z4)
 ---
 ### 🛠 Инструменты
 SQL (PostgreSQL, DBeaver), Yandex DataLens, Python, pandas, numpy, matplotlib, seaborn, scipy.stats, Jupyter Notebook
